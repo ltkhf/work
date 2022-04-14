@@ -4,6 +4,5 @@ Preferences http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Library 
 https://github.com/mandulaj/PZEM-004T-v30
-https://arduino-esp8266.readthedocs.io/en/latest/installing.html
 https://github.com/esp8266/Arduino
 https://downloads.arduino.cc/libraries/github.com/knolleary/PubSubClient-2.8.0.zip
